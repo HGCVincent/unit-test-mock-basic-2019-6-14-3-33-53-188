@@ -1,6 +1,6 @@
 package cashregister;
 
-class CashRegister {
+class  CashRegister {
 
     private final Printer printer;
 
